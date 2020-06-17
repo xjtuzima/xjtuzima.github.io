@@ -60,6 +60,7 @@ body {
 }
 
 #date {
+  font-family: "Roboto-Bold", "Roboto Bold", "Roboto", sans-serif;
   display: inline-block;
   font-size: 1.75em;
   font-weight: 600;
